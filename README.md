@@ -1,6 +1,6 @@
 
 ## 🛠 Skills
-ReactTS, SCSS, Framer-Motion, React-Native (Ionic, Expo), Figma, Agile
+ReactTS, VueJS, Angular, SCSS, Framer-Motion, React-Native (Ionic, Expo), Figma, Agile
 
 
 ## 🚀 About Me
