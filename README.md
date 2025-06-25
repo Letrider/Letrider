@@ -1,6 +1,6 @@
 
 ## 🛠 Skills
-ReactTS, VueJS, Angular, SCSS, TypeScript, Three.JS, Framer-Motion, React-Native (Ionic, Expo), Figma, Agile, FSD
+React (Next JS), Vue, Angular, SCSS, TypeScript, Three.JS, Framer-Motion, React-Native (Ionic, Expo), Figma, Agile, FSD
 
 
 ## 🚀 About Me
